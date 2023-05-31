@@ -9,7 +9,7 @@
 
 .hero {
     height: 100vh;
-    /* background-image: url(/img/v642-nap-37-fastfood.jpg);
+    /* background-image: url(./img/v642-nap-37-fastfood.jpg);
     background-size: 600px; */
     background-color: rgb(253, 214, 106);
 }
@@ -175,18 +175,18 @@ HOLA*/
 
 .grid_item1{
     grid-area: item1;
-    background-image: url(/img/bigOneBurger.jpg);
+    background-image: url(./img/bigOneBurger.jpg);
 
 }
 
 .grid_item2{
     grid-area: item2;
-    background-image: url(/img/little1burger.jpg);
+    background-image: url(./img/little1burger.jpg);
 }
 
 .grid_item3{
     grid-area: item3;
-    background-image: url(/img/little2burger.jpg);
+    background-image: url(./img/little2burger.jpg);
 }
 
 /*Enjoy*/
